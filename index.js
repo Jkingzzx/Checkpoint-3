@@ -10,7 +10,9 @@ and set it equal to your first name.
 Then, set another key of lastName 
 and set it equal to your last name
 */
-
+{var = me
+firstName = johan
+lastName = argueta}
 
 
 
@@ -30,3 +32,6 @@ species that are set to the name of your pet and
 its species. (if you don't have a pet, you can just 
 make one up)
 */
+hobbies = [dancing, singing, watching tv, videogames, eating]
+myHobbies = (hobbies,me)
+pet = husky
